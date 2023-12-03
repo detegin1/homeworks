@@ -1,0 +1,10 @@
+hj=1
+gfd=5
+ff=3
+e=5
+r=5
+g=6
+n=7
+g=8
+h=9
+print(hj+gfd+ff+e+r+g+n+g+h)
